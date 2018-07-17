@@ -15,4 +15,3 @@ function divSelector() {
 function firstListItem(argument) {
  return $('#pic-list li:first');
 }
-
